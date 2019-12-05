@@ -20,8 +20,40 @@
         <lastname>Matyja</lastname>
         <email>mmichasnf@jkjbkhsdf.pl</email>
         <github>hfkx</github>
+  </student>
+    <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Kosiński</lastname>
+        <email>helloThere@general.Kenobi</email>
+        <github>MatiiQ</github>
+        <group>Student</group>
+    </student>	
+	<student>
+        <firstname>Damian</firstname>
+        <lastname>Kmiecik</lastname>
+        <email>koneczeczek@gmail.com</email>
+        <github>damiankmiecik</github>
+        <group>KrDZIs3011Si</group>
+</student>	
+	 <student>
+        <firstname>Izabela</firstname>
+        <lastname>Dziubek</lastname>
+        <email>iza918@wp.pl</email>
+        <github>iza918</github>
         <group>KrDZIs3011Si</group>
     </student>	
+	<student>
+        <firstname>Mateusz</firstname>
+        <lastname>Zielonka</lastname>
+        <email>email@uek.krakow.pl</email>
+        <github>matteo1122</github>
+        <group>KrDZIS3011Si</group>
+  </student>
+  <student>
+       <firstname>Kateryna</firstname>
+       <lastname>Herasymenko</lastname>
+       <email>hkasia98@gmail.com</email>
+       <github>Gerbyl</github>
+        <group>KrDZIS3011Si</group>
+    </student>
 </students>
-
-
