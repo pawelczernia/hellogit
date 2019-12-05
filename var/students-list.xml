@@ -15,6 +15,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>	
+	<student>
+        <firstname>Damian</firstname>
+        <lastname>Kmiecik</lastname>
+        <email>koneczeczek@gmail.com</email>
+        <github>damiankmiecik</github>
+        <group>KrDZIs3011Si</group>
+</student>	
 	 <student>
         <firstname>Izabela</firstname>
         <lastname>Dziubek</lastname>
