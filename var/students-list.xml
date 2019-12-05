@@ -15,6 +15,12 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	<student>
+        <firstname>Michał</firstname>
+        <lastname>Matyja</lastname>
+        <email>mmichasnf@jkjbkhsdf.pl</email>
+        <github>hfkx</github>
+  </student>
     <student>
         <firstname>Mateusz</firstname>
         <lastname>Kosiński</lastname>
