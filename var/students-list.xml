@@ -71,4 +71,11 @@
        <github>Gerbyl</github>
         <group>KrDZIS3011Si</group>
     </student>
+  <student>
+    <firstname>asd</firstname>
+        <lastname>asd</lastname>
+        <email>ddd@uek.krakow.pl</email>
+        <github>asd</github>
+        <group>Teacher</group>
+    </student>	
 </students>
