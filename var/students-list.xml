@@ -15,6 +15,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>	
+	<student>
+        <firstname>Kamil</firstname>
+        <lastname>Browarnik</lastname>
+        <email>s199087@uek.krakow.pl</email>
+        <github>Ghetide</github>
+        <group>Student</group>
+    </student>	
 </students>
 
 
