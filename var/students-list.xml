@@ -15,6 +15,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+ <student>
+        <firstname>Michal</firstname>
+        <lastname>Fudala</lastname>
+        <email>omegalul@poczta.onet.pl</email>
+        <github>Gorillex</github>
+        <group>GOD</group>
+    </student>		
 	<student>
         	<firstname>Paweł</firstname>
         	<lastname>Czernia</lastname>
