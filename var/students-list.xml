@@ -78,4 +78,13 @@
         <github>asd</github>
         <group>Teacher</group>
     </student>	
+    <student>
+        <firstname>Vladyslav</firstname>
+        <lastname>Silver</lastname>
+        <email>SilverStone@uek.krakow.pl</email>
+        <github>Silver</github>
+        <group>Unknown</group>
+    </student>  
 </students>
+
+
