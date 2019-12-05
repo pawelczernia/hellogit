@@ -15,6 +15,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>	
+	<student>
+        <firstname>Mateusz</firstname>
+        <lastname>Zielonka</lastname>
+        <email>email@uek.krakow.pl</email>
+        <github>matteo1122</github>
+        <group>KrDZIS3011Si</group>
+    </student
 </students>
 
 
