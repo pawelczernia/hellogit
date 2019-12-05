@@ -14,9 +14,71 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student>
+	<student>
+        <firstname>Michał</firstname>
+        <lastname>Matyja</lastname>
+        <email>mmichasnf@jkjbkhsdf.pl</email>
+        <github>hfkx</github>
+        <group>KrDZIS3011Si</group>
+  </student>
+    <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Kosiński</lastname>
+        <email>helloThere@general.Kenobi</email>
+        <github>MatiiQ</github>
+        <group>Student</group>
     </student>	
-</students>
-<student>
+	<student>
+        <firstname>Damian</firstname>
+        <lastname>Kmiecik</lastname>
+        <email>koneczeczek@gmail.com</email>
+        <github>damiankmiecik</github>
+        <group>KrDZIs3011Si</group>
+</student>	
+	 <student>
+        <firstname>Izabela</firstname>
+        <lastname>Dziubek</lastname>
+        <email>iza918@wp.pl</email>
+        <github>iza918</github>
+        <group>KrDZIs3011Si</group>
+    </student>	
+	<student>
+        <firstname>Adam</firstname>
+        <lastname>Zaleński</lastname>
+        <email>s202070@uek.krakow.pl</email>
+        <github>adayet</github>
+        <group>KrDZIS3011Si</group>
+</student>	
+	<student>
+        <firstname>Karolina</firstname>
+        <lastname>Bigaj</lastname>
+        <email>aaa@uek.krakow.pl</email>
+        <github>karolinabigaj</github>
+        <group>KrDzIs3011Si</group>
+  </student>
+  <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Zielonka</lastname>
+        <email>email@uek.krakow.pl</email>
+        <github>matteo1122</github>
+        <group>KrDZIS3011Si</group>
+  </student>
+  <student>
+       <firstname>Kateryna</firstname>
+       <lastname>Herasymenko</lastname>
+       <email>hkasia98@gmail.com</email>
+       <github>Gerbyl</github>
+        <group>KrDZIS3011Si</group>
+    </student>
+  <student>
+    <firstname>asd</firstname>
+        <lastname>asd</lastname>
+        <email>ddd@uek.krakow.pl</email>
+        <github>asd</github>
+        <group>Teacher</group>
+    </student>	
+    <student>
         <firstname>Vladyslav</firstname>
         <lastname>Silver</lastname>
         <email>SilverStone@uek.krakow.pl</email>
@@ -24,4 +86,5 @@
         <group>Unknown</group>
     </student>  
 </students>
+
 
