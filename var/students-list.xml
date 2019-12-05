@@ -16,6 +16,13 @@
         <group>Teacher</group>
     </student>	
 	<student>
+        <firstname>Mateusz</firstname>
+        <lastname>Zielonka</lastname>
+        <email>email@uek.krakow.pl</email>
+        <github>matteo1122</github>
+        <group>KrDZIS3011Si</group>
+  </student>
+  <student>
        <firstname>Kateryna</firstname>
        <lastname>Herasymenko</lastname>
        <email>hkasia98@gmail.com</email>
