@@ -15,6 +15,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>	
+	<student>
+       <firstname>Kateryna</firstname>
+       <lastname>Herasymenko</lastname>
+       <email>hkasia98@gmail.com</email>
+       <github>Gerbyl</github>
+        <group>KrDZIS3011Si</group>
+    </student>
 </students>
 
 
