@@ -14,7 +14,14 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
-    </student>	
+    </student>
+	<student>
+        	<firstname>Paweł</firstname>
+        	<lastname>Czernia</lastname>
+        	<email>pawel@gmail.com</email>
+        	<github>Pwelo</github>
+        	<group>Student</group>
+    	</student>	
 </students>
 
 
