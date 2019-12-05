@@ -14,7 +14,12 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
-    </student>	
+    </student>
+    <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Kosiński</lastname>
+        <email>helloThere@general.Kenobi</email>
+        <github>MatiiQ</github>
+        <group>Student</group>
+    </student>
 </students>
-
-
