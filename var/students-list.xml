@@ -20,6 +20,7 @@
         <lastname>Matyja</lastname>
         <email>mmichasnf@jkjbkhsdf.pl</email>
         <github>hfkx</github>
+        <group>KrDZIS3011Si</group>
   </student>
     <student>
         <firstname>Mateusz</firstname>
@@ -42,6 +43,13 @@
         <github>iza918</github>
         <group>KrDZIs3011Si</group>
     </student>	
+	<student>
+        <firstname>Adam</firstname>
+        <lastname>Zaleński</lastname>
+        <email>s202070@uek.krakow.pl</email>
+        <github>adayet</github>
+        <group>KrDZIS3011Si</group>
+</student>	
 	<student>
         <firstname>Karolina</firstname>
         <lastname>Bigaj</lastname>
