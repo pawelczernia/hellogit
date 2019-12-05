@@ -8,6 +8,7 @@
        <github>jkanclerz</github>
         <group>Teacher</group>
     </student>
+
     <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wójcik</lastname>
@@ -16,5 +17,11 @@
         <group>Teacher</group>
     </student>	
 </students>
-
+<firstname>asd</firstname>
+        <lastname>asd</lastname>
+        <email>ddd@uek.krakow.pl</email>
+        <github>asd</github>
+        <group>Teacher</group>
+    </student>	
+</students>
 
